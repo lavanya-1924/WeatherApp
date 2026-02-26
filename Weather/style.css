@@ -1,0 +1,19 @@
+body {
+    background: linear-gradient(135deg, #74ebd5, #ACB6E5);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, sans-serif;
+}
+
+.weather-card {
+    background: white;
+    padding: 30px;
+    border-radius: 15px;
+    width: 350px;
+}
+
+#weatherResult img {
+    width: 80px;
+}
